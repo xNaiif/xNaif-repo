@@ -1,5 +1,5 @@
 # xNaif-repo
 hello all.
-WWelcom to my first repo 
+Welcom to my first repo 
 
 feel free to explore and connect.
